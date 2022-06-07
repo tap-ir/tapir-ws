@@ -1,0 +1,90 @@
+[submodule "bin2json"]
+	path = bin2json
+	url = https://github.com/tap-ir/bin2json.git
+[submodule "parselnk-rs"]
+	path = parselnk-rs
+	url = https://github.com/tap-ir/parselnk-rs.git
+[submodule "presentation"]
+	path = presentation
+	url = https://github.com/tap-ir/presentation.git
+[submodule "r-winreg"]
+	path = r-winreg
+	url = https://github.com/tap-ir/r-winreg.git
+[submodule "tap_derive"]
+	path = tap_derive
+	url = https://github.com/tap-ir/tap_derive.git
+[submodule "tap"]
+	path = tap
+	url = https://github.com/tap-ir/tap.git
+[submodule "tapir-frontend"]
+	path = tapir-frontend
+	url = https://github.com/tap-ir/tapir-frontend.git
+[submodule "tapir"]
+	path = tapir
+	url = https://github.com/tap-ir/tapir.git
+[submodule "tapir-ws"]
+	path = tapir-ws
+	url = https://github.com/tap-ir/tapir-ws
+[submodule "tap-plugin-clamav"]
+	path = tap-plugin-clamav
+	url = https://github.com/tap-ir/tap-plugin-clamav.git
+[submodule "tap-plugin-device"]
+	path = tap-plugin-device
+	url = https://github.com/tap-ir/tap-plugin-device.git
+[submodule "tap-plugin-evtx"]
+	path = tap-plugin-evtx
+	url = https://github.com/tap-ir/tap-plugin-evtx.git
+[submodule "tap-plugin-exif"]
+	path = tap-plugin-exif
+	url = https://github.com/tap-ir/tap-plugin-exif.git
+[submodule "tap-plugin-hash"]
+	path = tap-plugin-hash
+	url = https://github.com/tap-ir/tap-plugin-hash.git
+[submodule "tap-plugin-lnk"]
+	path = tap-plugin-lnk
+	url = https://github.com/tap-ir/tap-plugin-lnk.git
+[submodule "tap-plugin-local"]
+	path = tap-plugin-local
+	url = https://github.com/tap-ir/tap-plugin-local.git
+[submodule "tap-plugin-magic"]
+	path = tap-plugin-magic
+	url = https://github.com/tap-ir/tap-plugin-magic.git
+[submodule "tap-plugin-merge"]
+	path = tap-plugin-merge
+	url = https://github.com/tap-ir/tap-plugin-merge.git
+[submodule "tap-plugin-mft"]
+	path = tap-plugin-mft
+	url = https://github.com/tap-ir/tap-plugin-mft.git
+[submodule "tap-plugin-ntfs"]
+	path = tap-plugin-ntfs
+	url = https://github.com/tap-ir/tap-plugin-ntfs.git
+[submodule "tap-plugin-partition"]
+	path = tap-plugin-partition
+	url = https://github.com/tap-ir/tap-plugin-partition.git
+[submodule "tap-plugin-prefetch"]
+	path = tap-plugin-prefetch
+	url = https://github.com/tap-ir/tap-plugin-prefetch.git
+[submodule "tap-plugin-registry"]
+	path = tap-plugin-registry
+	url = https://github.com/tap-ir/tap-plugin-registry
+[submodule "tap-plugin-s3"]
+	path = tap-plugin-s3
+	url = https://github.com/tap-ir/tap-plugin-s3
+[submodule "tap-plugin-yara"]
+	path = tap-plugin-yara
+	url = https://github.com/tap-ir/tap-plugin-yara
+[submodule "tap-query"]
+	path = tap-query
+	url = https://github.com/tap-ir/tap-query.git
+[submodule "tap-save"]
+	path = tap-save
+	url = https://github.com/tap-ir/tap-save
+[submodule "tapyr-cmd"]
+	path = tapyr-cmd
+	url = https://github.com/tap-ir/tapyr-cmd.git
+[submodule "tapyr"]
+	path = tapyr
+	url = https://github.com/tap-ir/tapyr.git
+[submodule "tree_magic_mini"]
+	path = tree_magic_mini
+	url = https://github.com/tap-ir/tree_magic_mini.git

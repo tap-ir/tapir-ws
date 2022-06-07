@@ -1,0 +1,35 @@
+[workspace]
+members = [
+  "tap",
+  "tap_derive",
+  "tap-query",
+  "tap-save",
+
+  "tap-plugin-local",
+  "tap-plugin-merge",
+  "tap-plugin-hash",
+  "tap-plugin-exif",
+  "tap-plugin-s3",
+  "tap-plugin-magic",
+  "tap-plugin-prefetch",
+  "tap-plugin-partition",
+  "tap-plugin-lnk",
+  "tap-plugin-evtx",
+  "tap-plugin-registry",
+  "tap-plugin-ntfs",
+  "tap-plugin-mft",
+  "tap-plugin-clamav",
+  "tap-plugin-yara",
+  "tap-plugin-device",
+ 
+  "bin2json",
+  "tapir",
+  "tap-examples",
+  "tree_magic_mini",
+]
+
+[profile.release]
+lto = true
+opt-level=3
+#codegen-units = 1
+#incremental = false
