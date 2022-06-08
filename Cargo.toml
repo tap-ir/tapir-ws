@@ -24,7 +24,6 @@ members = [
  
   "bin2json",
   "tapir",
-  "tap-examples",
   "tree_magic_mini",
 ]
 
